@@ -1,0 +1,3 @@
+# Sudoku Analyzer PRO - Requirements
+# Python 3.8+ required
+# tkinter is bundled with Python (no pip install needed)

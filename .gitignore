@@ -1,0 +1,36 @@
+# Sudoku Analyzer PRO — .gitignore
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+*.spec
+
+# Logs
+*.log
+
+# Personal puzzle saves (optional — remove if you want to share them)
+# my_puzzles/
