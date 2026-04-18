@@ -69,7 +69,7 @@
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Sudoku-Analyzer.git
+git clone https://github.com/rockysito/Sudoku-Analyzer.git
 cd Sudoku-Analyzer
 ```
 
